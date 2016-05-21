@@ -14,7 +14,7 @@ gulp.task('serve', function() {
 });
 
 gulp.task('watch', function() {
-    gulp.watch(['*.html', 'css/style.css', 'js/onload.css'], reload);
+    gulp.watch(['*.html', 'tpl/css/style.css', 'tpl/js/onload.js'], reload);
 });
 
 gulp.task('default', ['watch', 'serve']);
