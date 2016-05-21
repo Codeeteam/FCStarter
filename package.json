@@ -1,0 +1,11 @@
+{
+  "name": "Refreshing",
+  "version": "1.0",
+  "description": "Refreshing lib",
+  "author": "FlameColors <contact@flamecolors.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.9.12",
+    "gulp": "^3.9.0"
+  }
+}
