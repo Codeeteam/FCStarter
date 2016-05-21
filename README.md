@@ -1,6 +1,6 @@
 ##Clear HTML/CSS FCStarter
 
-#What is inside?
+###What is inside?
 
 1. jQuery v2.2.4
 2. FastClick
