@@ -1,0 +1,15 @@
+# Created by .gitignore support plugin (hsz.mobi)
+
+.idea/
+/vendor/
+composer.lock
+/cache/gsub/
+/upload/*
+/cache/images/*
+/generated/*
+.sass-cache/
+node_modules/
+dist/
+validation-report.json
+validation-status.json
+.DS_Store
